@@ -1,0 +1,23 @@
+{
+    "classes": [
+        "not siren",
+        "siren"
+    ],
+    "mode": "classification",
+    "printHWInfo": false,
+    "inputShapeString": "(1960,)",
+    "yType": "npy",
+    "trainTestSplit": 0.2,
+    "stratifiedTrainTest": false,
+    "convertInt8": true,
+    "profileInt8": true,
+    "skipEmbeddingsAndMemory": false,
+    "objectDetectionAugmentation": false,
+    "syntiantTarget": false,
+    "maxTrainingTimeSeconds": 1200,
+    "isEnterpriseProject": false,
+    "flattenDataset": false,
+    "akidaModel": false,
+    "skipMemoryProfiling": false,
+    "tensorboardLogging": false
+}
