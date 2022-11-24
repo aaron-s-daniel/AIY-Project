@@ -1,4 +1,4 @@
-# Local training pipeline for "Devin / AIY Project"
+# Local training pipeline for "Aaron, Devin / AIY Project"
 
 This is the local training pipeline (based on Keras / TensorFlow) for your Edge Impulse project [Devin / AIY Project](http://localhost:4800/studio/157570) (http://localhost:4800/studio/157570). Use it to train your model locally or run experiments. Once you're done with experimentation you can push the model back into Edge Impulse, and retrain from there.
 
